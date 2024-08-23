@@ -1,3 +1,5 @@
+package LeetCode;
+
 public class MajorityElement {
     public static int majorityElement(int[] nums) {
         int count = 0;
